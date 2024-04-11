@@ -1,10 +1,5 @@
 # Project1_Speech_Synthesis_and_Perception_with_Envelope_Cue
 
-## 工作规范
+## 给读者
 
-- 在ReportMain.mlx写完成稿
-- 个人的非完成稿另建文件储存，并且取适当的名字
-
-Hints: 如何检验成果？频域谱、时域谱（不好）、功率谱、语谱
-
-TODO: 调参（需要改滤波器种类吗？）；频谱图；写入音频文件至\output（注意需要归一化）
+ReportMain.pdf 为最终报告
